@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAIA,gEACI,UACJ,CAEA,YACI,kCACJ","file":"main.bf668120.chunk.css","sourcesContent":[".navbar-light .navbar-brand {\r\n    color: white;\r\n}\r\n\r\n.navbar-light .navbar-nav .nav-link {\r\n    color: white;\r\n}\r\n\r\n.bg-primary {\r\n    background-color: #1a1b1c!important;\r\n}"]}
